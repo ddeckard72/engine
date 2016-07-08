@@ -1,0 +1,9 @@
+modules
+
+map
+character
+	sprite
+gui
+ai
+sound
+storage
